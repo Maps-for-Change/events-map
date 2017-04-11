@@ -285,7 +285,7 @@ var MapManager = (function($, d3, leaflet) {
           //     .addTo(overlays);
           // }
           if (item.className == 'event') {
-            L.circleMarker(item.latLng, { radius: 5, className: item.className, color: 'white', fillColor: '#ec3659', opacity: 0.8, fillOpacity: 0.7, weight: 2 })
+            L.circleMarker(item.latLng, { radius: 5, className: item.className, color: 'white', fillColor: '#5c9a66', opacity: 0.8, fillOpacity: 0.7, weight: 2 })
               .on('click', function(e) { _popupEvents(e); })
               .addTo(overlays);
           } else if (item.className == 'group-meeting') {

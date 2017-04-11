@@ -1,7 +1,9 @@
+$primary: #5c9a66;
+
 $pink: #ec3659;
 $highlight: #ec3659;
-$bernieblue: #ec3659;
+$bernieblue: $primary;
 $darkblue: #ec3659;
-$darkdarkblue: darken($pink, 20);
+$darkdarkblue: darken($primary, 20);
 $red: #F55B5B;
 $darkred: #ea504e;

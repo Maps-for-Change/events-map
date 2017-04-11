@@ -321,7 +321,7 @@ nav#mobile-nav {
 section#header {
   width: 100%;
   height: 70px;
-  background-color: #ec3659;
+  background-color: #5c9a66;
 
   nav {
     position: absolute;
@@ -448,7 +448,7 @@ article#map {
   // }
   .leaflet-popup-content-wrapper {
 
-    border-top: 2px solid $pink;
+    border-top: 2px solid $primary;
     .leaflet-popup-content {
       min-height: 140px;
       position: relative;
@@ -605,7 +605,7 @@ article#events {
               &[for=event] {
                 .circle-button {
                   &.default-on {
-                    background-color: $red;
+                    background-color: $primary;
                   }
                 }
               }
@@ -942,8 +942,8 @@ div.event-item {
     margin-top: 5px;
     display: inline-block;
     
-    color: $pink;
-    border-color: $pink;
+    color: $primary;
+    border-color: $primary;
     border-width: 2px;
     border-radius: 4px;
     border-style: solid;
@@ -1047,7 +1047,7 @@ div.event-item {
       position: absolute;
       border-right: 8px solid transparent;
       border-left: 8px solid transparent;
-      border-top: 8px solid $pink;
+      border-top: 8px solid $primary;
       left: 21px;
       bottom: -10px;
     }*/

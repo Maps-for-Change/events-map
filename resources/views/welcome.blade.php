@@ -2,18 +2,14 @@
 
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-<meta name="description" content="Organize. Resist. Repeat">
-<link href="https://daks2k3a4ib2z.cloudfront.net/5890e0241852b1404af8762d/58cdd2a2f552f26c3893f4bf_RC-32.png" rel="shortcut icon" type="image/x-icon">
-<meta property="og:image" content="https://global-uploads.webflow.com/5890e0241852b1404af8762d/58cdccb6df096f59381703bf_Screenshot%202017-03-18%2013.50.36-p-500x500.png" />
-<meta property="og:url" content="https://resistancecalendar.org/" />
-<meta property="og:title" content="Resistance Calendar"/>
+<meta property="og:title" content="Maps for Change"/>
 <meta property="og:description" content="Organize. Resist. Repeat"/>
 <link href='//api.tiles.mapbox.com/mapbox.js/v2.1.9/mapbox.css' rel='stylesheet' />
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 
 <link rel="stylesheet" type="text/css" href="/css/events-map.css">
 <link rel='stylesheet' type='text/css' href='https://fonts.googleapis.com/css?family=Roboto:100,200,400,500,600,700,800' />
-<title>Resistance Calendar</title>
+<title>Maps for Change</title>
 
 <!--[if lte IE 9]>
        <meta http-equiv="refresh" content="0; url=https://go.berniesanders.com/page/event/search_simple" />
@@ -41,7 +37,7 @@
       </h3>
       <h4 class='lato title'>
         <span id='screen-title'>Filters</span>
-        <span id='mobile-title'>Resistance Calendar</span>
+        <span id='mobile-title'>Maps for Change</span>
       </h4>
       <form id='filter-form'>
         <table>
@@ -125,7 +121,7 @@
             </svg>
           </div> -->
 
-          <sub>&copy; Resistance Calendar</sub>
+          <sub>&copy; Maps for Change</sub>
         </div>
 
       </footer>

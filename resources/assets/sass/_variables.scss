@@ -10,7 +10,7 @@ $panel-default-border: $laravel-border-color;
 $panel-inner-border: $laravel-border-color;
 
 // Brands
-$brand-primary: #ec3659;
+$brand-primary: #5c9a66;
 $brand-success: #4ACC66;
 $brand-info: #5bc0de;
 $brand-warning: #f0ad4e;
@@ -27,7 +27,7 @@ $line-height-base: 1.6;
 $text-color: #3f474d;
 
 // Navbar
-$navbar-default-bg: #ec3659;
+$navbar-default-bg: $brand-primary;
 $navbar-default-link-color: #fff;
 $navbar-default-link-hover-color: #fff;
 
