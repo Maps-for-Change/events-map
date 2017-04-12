@@ -2,6 +2,8 @@
 
 ## Maps for Change Event Map
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Maps-For-Change/events-map)
+
 Map for presenting data from events-etl and OSDI
 
 ## Getting Started
