@@ -3,9 +3,6 @@
   "description": "Simple map for presenting OSDI and events-etl events",
   "repository": "https://github.com/Maps-For-Change/events-map",
   "logo": "https://avatars3.githubusercontent.com/u/26628693?v=3&s=200",
-  "scripts": {
-    "postdeploy": "php artisan migrate"
-  },
   "env": {
     "APP_KEY": {
       "generator": "secret"
