@@ -21,7 +21,7 @@
     }
   },
   "addons": [
-    "heroku-postgres"
+    "heroku-postgresql"
   ],
   "buildpacks": [
     {
