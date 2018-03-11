@@ -11,12 +11,14 @@ Map for presenting data from events-etl and OSDI
 ### Prerequisites
 * Docker
 * Node/NPM
+* PHP Composer
 
 ### Setup
 ```
 git clone git@github.com:Maps-for-Change/events-map.git
 cd events-map
 npm install
+composer install --no-scripts
 cp .env.example .env
 docker-composer up
 docker-compose exec app php artisan key:generate
